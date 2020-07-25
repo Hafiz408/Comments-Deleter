@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591683184 source:e:\college\comments deleter\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
